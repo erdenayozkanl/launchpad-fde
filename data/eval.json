@@ -1,0 +1,5 @@
+[
+  {"name":"grounding","required_terms":["sources"]},
+  {"name":"uncertainty","required_terms":["uncertainty"]},
+  {"name":"privacy","required_terms":["PII"]}
+]
