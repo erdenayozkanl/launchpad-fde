@@ -1,0 +1,4 @@
+services:
+  launchpad-fde:
+    build: .
+    ports: ["8005:8005"]
